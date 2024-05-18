@@ -1,1 +1,1 @@
-## Training Collections (Array, List, Map)# java-collections
+## Training Collections (Array, List, Map)
